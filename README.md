@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @dorianneto
-- 👀 I’m interested in Software Architecture
-- 🌱 I’m currently learning Clean Architecture
-- 💞️ I’m looking to collaborate on meaningful projects
-- 📫 doriansampaioneto@gmail.com
+👋 Hi, I’m @dorianneto
+
+👀 I’m interested in Software Architecture
+
+🌱 I’m currently learning Clean Architecture
+
+💞️ I’m looking to collaborate on meaningful projects
+
+📫 doriansampaioneto@gmail.com
 
 <!---
 dorianneto/dorianneto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
