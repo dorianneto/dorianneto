@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on sometihng great!
 - 👀 I’m interested on Software Architecture/Backend
 - 🌱 I’m currently learning Go, Apache Kafka, Clean Architecture, CAP Theorem
-- 👨‍💻 Check out more about me [dorianneto.com.br](https://www.dorianneto.com.br)
+- 👨‍💻 Check out more about me at [dorianneto.com](https://www.dorianneto.com)
 - 💬 Ask me about [anything](https://github.com/dorianneto/dorianneto/issues/new)
 - 📫 Send me an email doriansampaioneto@gmail.com
 
