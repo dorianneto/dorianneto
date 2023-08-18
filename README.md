@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=dorianneto)
 
 - 🔭 I'm currently working on sometihng great!
-- 👀 I’m interested on Software Architecture/Backend
-- 🌱 I’m currently learning Go, Apache Kafka, Clean Architecture, CAP Theorem
+- 🚀 My specialties are Software Architecture and Backend
+- 🌱 I’m currently learning Go, Apache Kafka, Clean Architecture, CAP Theorem, K8S
 - 👨‍💻 Check out more about me at [dorianneto.com](https://www.dorianneto.com)
 - 💬 Ask me about [anything](https://github.com/dorianneto/dorianneto/issues/new)
 - 📫 Send me an email doriansampaioneto@gmail.com
