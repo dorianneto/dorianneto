@@ -3,11 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=dorianneto)
 
 - 🔭 I'm currently working on something great!
-- 🚀 My specialties are Backend and Software Architecture
-- 🌱 I’m currently learning Go, Clean Architecture and CAP Theorem
+- 🚀 My expertise is in Backend and Software Architecture
+- 🌱 I’m currently studying NoSQL and Leadership
 - 👨‍💻 Check out more about me at [dorianneto.com](https://www.dorianneto.com)
 - 💬 Ask me about [anything](https://github.com/dorianneto/dorianneto/issues/new)
-- 📫 Send me an email doriansampaioneto@gmail.com
 
 <details>
   <summary>Github Stats ⚡</summary>
